@@ -1,0 +1,9 @@
+{
+  "name":"Option Income Engine",
+  "short_name":"Option Engine",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#070b14",
+  "theme_color":"#0b1020",
+  "icons":[]
+}
